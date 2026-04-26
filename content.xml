@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260426110616OARXPX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604261106167Q4SA6</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>&quot;Brawl Stars&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>¡El alumnado podrá ponerse en la piel de sus Brawlers favoritos en Educación Física!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>José Germán Pila Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Esta Situación de Aprendizaje permitirá motivar al alumnado a superar retos y juegos cooperativos a través de las habilidades y capacidades típicas de los Brawlers favoritos del propio videojuego. Deberán superar dichas pruebas, de manera cooperativa, para poder desbloquear cada uno de los Brawlers propuestos. Todo ello para superar el producto final, donde deberán crear sus propios juegos asociados a las habilidades de dichos Brawlers para que los disfruten el resto de compañeros/as.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777193934026</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mofixjau-tjbxt7mhj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INICIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INICIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjau-i9pro68am</odePageId>
+  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <pageName>Presentación de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjau-i9pro68am</odePageId>
+      <odeBlockId>block-1776968193481-101p3tx7f</odeBlockId>
+      <blockName>&quot;Brawl Stars&quot;</blockName>
+      <iconName>play</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjau-i9pro68am</odePageId>
+          <odeBlockId>block-1776968193481-101p3tx7f</odeBlockId>
+          <odeIdeviceId>idevice-1776968193479-f51j5q1oq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/6277243e-6492-40d9-9f71-080d09239e8a.png" width="1086" height="1448" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776968193479-f51j5q1oq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/6277243e-6492-40d9-9f71-080d09239e8a.png\" width=\"1086\" height=\"1448\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjaw-63br3p3ns</odePageId>
+  <odeParentPageId>page-mofixjau-i9pro68am</odeParentPageId>
+  <pageName>Descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjaw-63br3p3ns</odePageId>
+      <odeBlockId>block-1776968522005-fody9kttt</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjaw-63br3p3ns</odePageId>
+          <odeBlockId>block-1776968522005-fody9kttt</odeBlockId>
+          <odeIdeviceId>idevice-1776968522003-5priqejzz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje busca conectar la realidad del alumnado con la actividad física, ya que, se diseña una gamificación de Brawl Stars para motivar al alumnado a desbloquear cada “Brawler” a través de retos y juegos cooperativos (por grupos de afinidad) que les permitan conseguir los puntos necesarios para desbloquear a cada personaje del videojuego. </p>
+<p>El alumnado se preparará física y estratégicamente, para el producto final, el cual, es el famoso modo de juego de Brawl Stars, llamado “atrapagemas”, en el que realizarán partidos, al estilo atrapa la bandera, donde acumularán el máximo número de gemas posibles poniendo en práctica todas las habilidades físicas aprendidas en cada uno de los Brawlers anteriores, así como, las capacidades físicas básicas, las cuales, serán la base del desempeño de cada Brawler.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776968522003-5priqejzz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje busca conectar la realidad del alumnado con la actividad física, ya que, se diseña una gamificación de Brawl Stars para motivar al alumnado a desbloquear cada “Brawler” a través de retos y juegos cooperativos (por grupos de afinidad) que les permitan conseguir los puntos necesarios para desbloquear a cada personaje del videojuego. </p>\n<p>El alumnado se preparará física y estratégicamente, para el producto final, el cual, es el famoso modo de juego de Brawl Stars, llamado “atrapagemas”, en el que realizarán partidos, al estilo atrapa la bandera, donde acumularán el máximo número de gemas posibles poniendo en práctica todas las habilidades físicas aprendidas en cada uno de los Brawlers anteriores, así como, las capacidades físicas básicas, las cuales, serán la base del desempeño de cada Brawler.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjaw-4ldathmw9</odePageId>
+  <odeParentPageId>page-mofixjau-i9pro68am</odeParentPageId>
+  <pageName>Justificación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Justificación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjaw-4ldathmw9</odePageId>
+      <odeBlockId>block-1776968612205-q6fyl29by</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjaw-4ldathmw9</odePageId>
+          <odeBlockId>block-1776968612205-q6fyl29by</odeBlockId>
+          <odeIdeviceId>idevice-1776968612204-hc81bm51y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta Situación de Aprendizaje permitirá que el alumnado pueda explorar y conocer sus habilidades físicas básicas y genéricas, así como, sus capacidades físicas básicas, para ver el nivel inicial, como punto de partida y, posteriormente, comprobar esa mejora, favoreciendo el desarrollo de su autoconcepto y autoestima, lo cual, motivará al alumnado hacia la práctica de actividad física, siendo, el videojuego Brawl Stars, la pieza clave motivadora para que el alumnado se adentre en este mundo conocido, permitiendo ser aquel Brawler que desearían llegar a ser. </p>
+<p>Durante todo el proceso, el diseño de un “camino de trofeos” a través de Genially, permite que, en el patio y a través de una tablet, el alumnado tenga un acceso a la información más motivador y visual, al puro estilo Brawl Stars, favoreciendo un aprendizaje integral, trabajando competencias de otras áreas curriculares y cumpliendo con las indicaciones del Plan Lector. En este mismo sentido, la gamificación también está diseñada a través de unos contadores de puntos para cada equipo, donde puedan ir sumando los puntos que van consiguiendo para desbloquear a cada Brawler. </p>
+<p>Todas estas puntuaciones, permitirá al alumnado entender cómo serán evaluados y cómo conseguirán la mejor calificación posible, siendo partícipes de su propio aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776968612204-hc81bm51y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta Situación de Aprendizaje permitirá que el alumnado pueda explorar y conocer sus habilidades físicas básicas y genéricas, así como, sus capacidades físicas básicas, para ver el nivel inicial, como punto de partida y, posteriormente, comprobar esa mejora, favoreciendo el desarrollo de su autoconcepto y autoestima, lo cual, motivará al alumnado hacia la práctica de actividad física, siendo, el videojuego Brawl Stars, la pieza clave motivadora para que el alumnado se adentre en este mundo conocido, permitiendo ser aquel Brawler que desearían llegar a ser. </p>\n<p>Durante todo el proceso, el diseño de un “camino de trofeos” a través de Genially, permite que, en el patio y a través de una tablet, el alumnado tenga un acceso a la información más motivador y visual, al puro estilo Brawl Stars, favoreciendo un aprendizaje integral, trabajando competencias de otras áreas curriculares y cumpliendo con las indicaciones del Plan Lector. En este mismo sentido, la gamificación también está diseñada a través de unos contadores de puntos para cada equipo, donde puedan ir sumando los puntos que van consiguiendo para desbloquear a cada Brawler. </p>\n<p>Todas estas puntuaciones, permitirá al alumnado entender cómo serán evaluados y cómo conseguirán la mejor calificación posible, siendo partícipes de su propio aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjax-nq8lxe4i6</odePageId>
+  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <pageName>Producto final SdA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjax-nq8lxe4i6</odePageId>
+      <odeBlockId>block-1776968730271-pu03k48ha</odeBlockId>
+      <blockName>Descripción del producto final: creación, difusión y puesta en práctica de juegos inspirados en Brawl Stars.</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjax-nq8lxe4i6</odePageId>
+          <odeBlockId>block-1776968730271-pu03k48ha</odeBlockId>
+          <odeIdeviceId>idevice-1776968730269-1buxiidps</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta situación de aprendizaje consistirá en el diseño, elaboración, presentación y aplicación práctica de un juego motor original por parte del alumnado, inspirado en la temática y dinámicas del popular videojuego Brawl Stars. Este proyecto se desarrollará en pequeños grupos cooperativos de aproximadamente 4-5 alumnos/as, fomentando la participación activa, la toma de decisiones compartida y la creatividad.</p>
+<p>Cada grupo deberá crear un juego que se encuadre dentro de una de las siguientes tipologías motrices: juego de oposición, juego de cooperación-oposición o juego de cooperación, tomando como referencia los distintos modos de juego (como “atrapar gemas”, “supervivencia”, “balón brawl”, etc.) o las habilidades específicas de los personajes (brawlers) del universo del juego. Esta inspiración servirá como punto de partida para adaptar las dinámicas al contexto real del área de Educación Física, respetando siempre las normas de seguridad, inclusión y participación equitativa.</p>
+<p>El proceso de creación implicará varias fases:</p>
+<p>1. Diseño del juego.<br />El alumnado deberá:<br />- Definir el objetivo principal del juego.<br />- Establecer reglas claras, sencillas y comprensibles.<br />- Determinar el espacio de juego, materiales necesarios y número de participantes.<br />- Diseñar roles dentro del juego (jugadores, árbitros, dinamizadores, etc.).<br />- Incorporar elementos característicos del universo Brawl Stars (habilidades especiales, sistema de puntos, “vidas”, recompensas, etc.), adaptados al entorno físico.</p>
+<p><br />2. Elaboración de materiales de difusión.<br />Cada grupo deberá crear un producto digital que permita compartir su juego con el resto de la clase a través de Google Classroom. Este incluirá:<br />- Vídeo explicativo: grabado por el propio alumnado, donde se presenten las normas, el desarrollo del juego y, si es posible, una pequeña demostración práctica. Se valorará la claridad en la exposición, el uso de lenguaje adecuado y la organización de la información.<br />- Infografía visual: que recoja de forma sintética y atractiva los aspectos clave del juego (nombre, objetivo, reglas, materiales, organización, puntuación, etc.). Se fomentará el uso de herramientas digitales sencillas y la creatividad visual.</p>
+<p><br />3. Puesta en práctica en sesiones de Educación Física.<br />Cada grupo tendrá la oportunidad de implementar su juego en una sesión práctica real, donde asumirán un rol docente activo. En este contexto, el alumnado:<br />- Explicará el juego al resto de compañeros/as.<br />- Organizará los equipos y el espacio.<br />- Dinamizará la actividad, resolviendo dudas y gestionando el desarrollo.<br />- Supervisará el cumplimiento de las normas.<br />- Evaluará de manera básica el funcionamiento del juego (qué ha salido bien, qué se puede mejorar).<br />- Durante esta fase, el alumnado desarrollará habilidades de liderazgo, comunicación, responsabilidad y gestión de grupo, experimentando el rol de docente o monitor.</p>
+<p>4. Evaluación y reflexión final.<br />Tras la implementación, se promoverá un espacio de reflexión donde cada grupo analizará su experiencia, valorando aspectos como:<br />- La participación e implicación del grupo.<br />- La comprensión de las reglas por parte de los compañeros.<br />- La adecuación del juego al nivel del grupo.<br />- Las posibles mejoras.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776968730269-1buxiidps","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta situación de aprendizaje consistirá en el diseño, elaboración, presentación y aplicación práctica de un juego motor original por parte del alumnado, inspirado en la temática y dinámicas del popular videojuego Brawl Stars. Este proyecto se desarrollará en pequeños grupos cooperativos de aproximadamente 4-5 alumnos/as, fomentando la participación activa, la toma de decisiones compartida y la creatividad.</p>\n<p>Cada grupo deberá crear un juego que se encuadre dentro de una de las siguientes tipologías motrices: juego de oposición, juego de cooperación-oposición o juego de cooperación, tomando como referencia los distintos modos de juego (como “atrapar gemas”, “supervivencia”, “balón brawl”, etc.) o las habilidades específicas de los personajes (brawlers) del universo del juego. Esta inspiración servirá como punto de partida para adaptar las dinámicas al contexto real del área de Educación Física, respetando siempre las normas de seguridad, inclusión y participación equitativa.</p>\n<p>El proceso de creación implicará varias fases:</p>\n<p>1. Diseño del juego.<br />El alumnado deberá:<br />- Definir el objetivo principal del juego.<br />- Establecer reglas claras, sencillas y comprensibles.<br />- Determinar el espacio de juego, materiales necesarios y número de participantes.<br />- Diseñar roles dentro del juego (jugadores, árbitros, dinamizadores, etc.).<br />- Incorporar elementos característicos del universo Brawl Stars (habilidades especiales, sistema de puntos, “vidas”, recompensas, etc.), adaptados al entorno físico.</p>\n<p><br />2. Elaboración de materiales de difusión.<br />Cada grupo deberá crear un producto digital que permita compartir su juego con el resto de la clase a través de Google Classroom. Este incluirá:<br />- Vídeo explicativo: grabado por el propio alumnado, donde se presenten las normas, el desarrollo del juego y, si es posible, una pequeña demostración práctica. Se valorará la claridad en la exposición, el uso de lenguaje adecuado y la organización de la información.<br />- Infografía visual: que recoja de forma sintética y atractiva los aspectos clave del juego (nombre, objetivo, reglas, materiales, organización, puntuación, etc.). Se fomentará el uso de herramientas digitales sencillas y la creatividad visual.</p>\n<p><br />3. Puesta en práctica en sesiones de Educación Física.<br />Cada grupo tendrá la oportunidad de implementar su juego en una sesión práctica real, donde asumirán un rol docente activo. En este contexto, el alumnado:<br />- Explicará el juego al resto de compañeros/as.<br />- Organizará los equipos y el espacio.<br />- Dinamizará la actividad, resolviendo dudas y gestionando el desarrollo.<br />- Supervisará el cumplimiento de las normas.<br />- Evaluará de manera básica el funcionamiento del juego (qué ha salido bien, qué se puede mejorar).<br />- Durante esta fase, el alumnado desarrollará habilidades de liderazgo, comunicación, responsabilidad y gestión de grupo, experimentando el rol de docente o monitor.</p>\n<p>4. Evaluación y reflexión final.<br />Tras la implementación, se promoverá un espacio de reflexión donde cada grupo analizará su experiencia, valorando aspectos como:<br />- La participación e implicación del grupo.<br />- La comprensión de las reglas por parte de los compañeros.<br />- La adecuación del juego al nivel del grupo.<br />- Las posibles mejoras.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjax-ihj6kkgfp</odePageId>
+  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <pageName>Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjax-ihj6kkgfp</odePageId>
+      <odeBlockId>block-1776969412433-hwye2fqqa</odeBlockId>
+      <blockName>¿Qué debemos saber?</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjax-ihj6kkgfp</odePageId>
+          <odeBlockId>block-1776969412433-hwye2fqqa</odeBlockId>
+          <odeIdeviceId>idevice-1776969412431-hbluhm7wc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hoy en día usamos mucho los ordenadores, tablets y móviles. Con ellos podemos aprender, jugar y hablar con otras personas. Pero, igual que en la vida real, en internet también tenemos<strong> derechos </strong>que debemos conocer y respetar.</p>
+<p>Los <strong>derechos digitales</strong> son normas que nos ayudan a estar seguros cuando usamos internet. Por ejemplo, tenemos derecho a que nadie nos insulte, nos moleste o nos haga sentir mal. También tenemos derecho a que nuestra información personal esté protegida.</p>
+<p>¿Sabes qué son los <strong>datos personales</strong>? Son cosas como tu nombre, tu dirección, tu foto o el nombre de tu colegio. Estos datos son importantes y <strong>no debemos compartirlos con cualquiera.</strong></p>
+<p>Para <strong>cuidar y proteger</strong> nuestros datos, es importante:<br />- No decir información personal a personas desconocidas.<br />- Usar contraseñas seguras y no compartirlas.<br />- Pedir ayuda a un adulto si algo en internet nos hace sentir incómodos.<br />- Pensar bien antes de subir fotos o información.</p>
+<p><br />Cuidar nuestros derechos digitales nos ayuda a <strong>estar más seguros y a respetar también a los demás.</strong> Internet puede ser un lugar maravilloso si lo usamos con <strong>responsabilidad.</strong></p>
+<p><a href="https://canva.link/9pvaq0tzwl0lmdw">https://canva.link/9pvaq0tzwl0lmdw</a></p>
+<p><strong></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776969412431-hbluhm7wc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hoy en día usamos mucho los ordenadores, tablets y móviles. Con ellos podemos aprender, jugar y hablar con otras personas. Pero, igual que en la vida real, en internet también tenemos<strong> derechos </strong>que debemos conocer y respetar.</p>\n<p>Los <strong>derechos digitales</strong> son normas que nos ayudan a estar seguros cuando usamos internet. Por ejemplo, tenemos derecho a que nadie nos insulte, nos moleste o nos haga sentir mal. También tenemos derecho a que nuestra información personal esté protegida.</p>\n<p>¿Sabes qué son los <strong>datos personales</strong>? Son cosas como tu nombre, tu dirección, tu foto o el nombre de tu colegio. Estos datos son importantes y <strong>no debemos compartirlos con cualquiera.</strong></p>\n<p>Para <strong>cuidar y proteger</strong> nuestros datos, es importante:<br />- No decir información personal a personas desconocidas.<br />- Usar contraseñas seguras y no compartirlas.<br />- Pedir ayuda a un adulto si algo en internet nos hace sentir incómodos.<br />- Pensar bien antes de subir fotos o información.</p>\n<p><br />Cuidar nuestros derechos digitales nos ayuda a <strong>estar más seguros y a respetar también a los demás.</strong> Internet puede ser un lugar maravilloso si lo usamos con <strong>responsabilidad.</strong></p>\n<p><a href=\"https://canva.link/9pvaq0tzwl0lmdw\">https://canva.link/9pvaq0tzwl0lmdw</a></p>\n<p><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjax-mmf1hzpp3</odePageId>
+  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <pageName>Línea temporal para la organización</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal para la organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal para la organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal para la organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjax-mmf1hzpp3</odePageId>
+      <odeBlockId>block-1776971662833-pst9ezf12</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjax-mmf1hzpp3</odePageId>
+          <odeBlockId>block-1776971662833-pst9ezf12</odeBlockId>
+          <odeIdeviceId>idevice-1776971662831-05b6rfwfe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La organización de los saberes básicos en una línea temporal, desde un inicio hasta un final, responde a la necesidad de estructurar el proceso de enseñanza-aprendizaje de manera coherente y progresiva. Esta secuenciación permite que los contenidos se presenten siguiendo un orden lógico, en el que cada nuevo aprendizaje se apoya en los conocimientos previamente adquiridos, favoreciendo así una comprensión más sólida y significativa.</p>
+<p>Establecer una progresión temporal facilita la planificación didáctica, ya que el docente puede definir con claridad los objetivos de cada fase, anticipar posibles dificultades y ajustar las actividades al nivel de desarrollo del alumnado. De este modo, se garantiza que los saberes básicos no se aborden de forma aislada, sino como parte de un proceso continuo de construcción del conocimiento.</p>
+<p>Además, la organización en una línea temporal contribuye a que el alumnado tome conciencia de su propio aprendizaje, identificando el punto de partida, los avances realizados y las metas finales. Esto refuerza la motivación y favorece la autorregulación, aspectos especialmente relevantes en etapas como la Educación Primaria.</p>
+<p>En conclusión, estructurar los saberes básicos de forma temporal no solo mejora la claridad y la coherencia del proceso educativo, sino que también facilita un aprendizaje más ordenado, progresivo y adaptado a las necesidades del alumnado.</p>
+<p><a href="https://canva.link/dem7y3e8lzansri">https://canva.link/dem7y3e8lzansri</a></p>
+<p><img src="{{context_path}}/content/resources/Timeline Brawl Stars.jpg" width="1748" height="1240" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776971662831-05b6rfwfe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La organización de los saberes básicos en una línea temporal, desde un inicio hasta un final, responde a la necesidad de estructurar el proceso de enseñanza-aprendizaje de manera coherente y progresiva. Esta secuenciación permite que los contenidos se presenten siguiendo un orden lógico, en el que cada nuevo aprendizaje se apoya en los conocimientos previamente adquiridos, favoreciendo así una comprensión más sólida y significativa.</p>\n<p>Establecer una progresión temporal facilita la planificación didáctica, ya que el docente puede definir con claridad los objetivos de cada fase, anticipar posibles dificultades y ajustar las actividades al nivel de desarrollo del alumnado. De este modo, se garantiza que los saberes básicos no se aborden de forma aislada, sino como parte de un proceso continuo de construcción del conocimiento.</p>\n<p>Además, la organización en una línea temporal contribuye a que el alumnado tome conciencia de su propio aprendizaje, identificando el punto de partida, los avances realizados y las metas finales. Esto refuerza la motivación y favorece la autorregulación, aspectos especialmente relevantes en etapas como la Educación Primaria.</p>\n<p>En conclusión, estructurar los saberes básicos de forma temporal no solo mejora la claridad y la coherencia del proceso educativo, sino que también facilita un aprendizaje más ordenado, progresivo y adaptado a las necesidades del alumnado.</p>\n<p><a href=\"https://canva.link/dem7y3e8lzansri\">https://canva.link/dem7y3e8lzansri</a></p>\n<p><img src=\"{{context_path}}/content/resources/Timeline Brawl Stars.jpg\" width=\"1748\" height=\"1240\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjay-z3xopiy3e</odePageId>
+  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <pageName>Curación de contenido</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjay-z3xopiy3e</odePageId>
+      <odeBlockId>block-1777194235955-0rtc296nz</odeBlockId>
+      <blockName>Importancia de la curación de contenidos en Educación</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjay-z3xopiy3e</odePageId>
+          <odeBlockId>block-1777194235955-0rtc296nz</odeBlockId>
+          <odeIdeviceId>idevice-1777194235953-l0sseqdrl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La curación de contenidos en educación es clave tanto para alumnos como para docentes, ya que permite filtrar, seleccionar y organizar información relevante en un entorno digital saturado. Para los estudiantes, facilita el acceso a fuentes fiables y comprensibles, mejorando su aprendizaje autónomo y pensamiento crítico. Para los docentes, optimiza el tiempo y enriquece la enseñanza al integrar materiales de calidad, actualizados y adaptados a las necesidades del aula, favoreciendo así una experiencia educativa más efectiva y significativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777194235953-l0sseqdrl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La curación de contenidos en educación es clave tanto para alumnos como para docentes, ya que permite filtrar, seleccionar y organizar información relevante en un entorno digital saturado. Para los estudiantes, facilita el acceso a fuentes fiables y comprensibles, mejorando su aprendizaje autónomo y pensamiento crítico. Para los docentes, optimiza el tiempo y enriquece la enseñanza al integrar materiales de calidad, actualizados y adaptados a las necesidades del aula, favoreciendo así una experiencia educativa más efectiva y significativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjay-qnotbs5ny</odePageId>
+  <odeParentPageId>page-mofixjay-z3xopiy3e</odeParentPageId>
+  <pageName>Docente</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjay-qnotbs5ny</odePageId>
+      <odeBlockId>block-1776971364026-a7m2jc04t</odeBlockId>
+      <blockName>Recursos digitales para la gestión del aula</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjay-qnotbs5ny</odePageId>
+          <odeBlockId>block-1776971364026-a7m2jc04t</odeBlockId>
+          <odeIdeviceId>idevice-1776971364024-b7vt3qgmy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El uso de herramientas digitales para la gestión del aula en 4º de Educación Primaria constituye un elemento clave para optimizar la organización, el seguimiento del aprendizaje y la coordinación del grupo-clase. Plataformas como Padlet, junto con otras aplicaciones educativas, permiten centralizar la información relevante, facilitando tanto al docente como al alumnado el acceso a contenidos, tareas y recursos en un entorno estructurado.</p>
+<p>Desde una perspectiva pedagógica, estas herramientas favorecen la planificación sistemática de las actividades, la distribución clara de responsabilidades y la visibilización de los objetivos de aprendizaje. Asimismo, contribuyen al desarrollo de la competencia digital del alumnado, promoviendo un uso responsable, autónomo y significativo de la tecnología desde edades tempranas.</p>
+<p>En términos de gestión del grupo, el entorno digital facilita la comunicación, el trabajo colaborativo y la participación activa del alumnado, aspectos fundamentales en esta etapa educativa. Además, permite un seguimiento más individualizado, ya que el docente puede registrar evidencias de aprendizaje, ofrecer retroalimentación inmediata y adaptar la intervención educativa a las necesidades específicas de cada estudiante.</p>
+<p>En definitiva, la integración de herramientas digitales en la gestión del aula no solo mejora la organización y la eficiencia del proceso educativo, sino que también enriquece las experiencias de aprendizaje y favorece un modelo más inclusivo, dinámico y centrado en el alumnado.</p>
+<p><a href="https://view.genially.com/69cc14ed8127a6d6525087d3">https://view.genially.com/69cc14ed8127a6d6525087d3</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776971364024-b7vt3qgmy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El uso de herramientas digitales para la gestión del aula en 4º de Educación Primaria constituye un elemento clave para optimizar la organización, el seguimiento del aprendizaje y la coordinación del grupo-clase. Plataformas como Padlet, junto con otras aplicaciones educativas, permiten centralizar la información relevante, facilitando tanto al docente como al alumnado el acceso a contenidos, tareas y recursos en un entorno estructurado.</p>\n<p>Desde una perspectiva pedagógica, estas herramientas favorecen la planificación sistemática de las actividades, la distribución clara de responsabilidades y la visibilización de los objetivos de aprendizaje. Asimismo, contribuyen al desarrollo de la competencia digital del alumnado, promoviendo un uso responsable, autónomo y significativo de la tecnología desde edades tempranas.</p>\n<p>En términos de gestión del grupo, el entorno digital facilita la comunicación, el trabajo colaborativo y la participación activa del alumnado, aspectos fundamentales en esta etapa educativa. Además, permite un seguimiento más individualizado, ya que el docente puede registrar evidencias de aprendizaje, ofrecer retroalimentación inmediata y adaptar la intervención educativa a las necesidades específicas de cada estudiante.</p>\n<p>En definitiva, la integración de herramientas digitales en la gestión del aula no solo mejora la organización y la eficiencia del proceso educativo, sino que también enriquece las experiencias de aprendizaje y favorece un modelo más inclusivo, dinámico y centrado en el alumnado.</p>\n<p><a href=\"https://view.genially.com/69cc14ed8127a6d6525087d3\">https://view.genially.com/69cc14ed8127a6d6525087d3</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjay-k0a8zrczu</odePageId>
+  <odeParentPageId>page-mofixjay-z3xopiy3e</odeParentPageId>
+  <pageName>Alumnado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjay-k0a8zrczu</odePageId>
+      <odeBlockId>block-1776970296433-g5mo0sut7</odeBlockId>
+      <blockName>¿Dónde está todo lo que necesito?</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjay-k0a8zrczu</odePageId>
+          <odeBlockId>block-1776970296433-g5mo0sut7</odeBlockId>
+          <odeIdeviceId>idevice-1776970296431-o3yluvwx0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Guardar los saberes básicos en una plataforma digital como Padlet es muy importante porque nos ayuda a aprender mejor y a tener todo bien organizado.</p>
+<p>Cuando guardamos la información en un mismo lugar, no se pierde y podemos volver a verla siempre que lo necesitemos. Esto nos ayuda a repasar lo que hemos aprendido en clase y a entenderlo mejor poco a poco. Además, al estar todo ordenado, es más fácil encontrar las ideas importantes.</p>
+<p>También es útil porque podemos añadir imágenes, vídeos o ejemplos que hacen el aprendizaje más claro y divertido. Así, no solo memorizamos, sino que comprendemos mejor los saberes básicos.</p>
+<p>En resumen, usar una herramienta como Padlet nos ayuda a organizar la información, a recordarla con más facilidad y a aprender de una forma más completa y significativa.</p>
+<p><a href="https://padlet.com/jpilrod094/qu-brawler-voy-a-ser-hoy-8ezrzz2p1py3de7p">https://padlet.com/jpilrod094/qu-brawler-voy-a-ser-hoy-8ezrzz2p1py3de7p</a></p>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776970296431-o3yluvwx0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Guardar los saberes básicos en una plataforma digital como Padlet es muy importante porque nos ayuda a aprender mejor y a tener todo bien organizado.</p>\n<p>Cuando guardamos la información en un mismo lugar, no se pierde y podemos volver a verla siempre que lo necesitemos. Esto nos ayuda a repasar lo que hemos aprendido en clase y a entenderlo mejor poco a poco. Además, al estar todo ordenado, es más fácil encontrar las ideas importantes.</p>\n<p>También es útil porque podemos añadir imágenes, vídeos o ejemplos que hacen el aprendizaje más claro y divertido. Así, no solo memorizamos, sino que comprendemos mejor los saberes básicos.</p>\n<p>En resumen, usar una herramienta como Padlet nos ayuda a organizar la información, a recordarla con más facilidad y a aprender de una forma más completa y significativa.</p>\n<p><a href=\"https://padlet.com/jpilrod094/qu-brawler-voy-a-ser-hoy-8ezrzz2p1py3de7p\">https://padlet.com/jpilrod094/qu-brawler-voy-a-ser-hoy-8ezrzz2p1py3de7p</a></p>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjay-sfql0u4ik</odePageId>
+  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjay-sfql0u4ik</odePageId>
+      <odeBlockId>block-1777194335915-grslfjjso</odeBlockId>
+      <blockName>Guía didáctica en el proceso de enseñanza-aprendizaje</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjay-sfql0u4ik</odePageId>
+          <odeBlockId>block-1777194335915-grslfjjso</odeBlockId>
+          <odeIdeviceId>idevice-1777194335913-ocoxp422n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una enseñanza bien organizada, basada en la planificación clara de tareas y actividades vinculadas a criterios de evaluación, resulta fundamental para dar coherencia y sentido al proceso educativo. Cuando cada actividad está diseñada como evidenciable y alineada con lo que se pretende evaluar, el alumnado comprende mejor los objetivos de aprendizaje y lo que se espera de él. Esto no solo aporta transparencia, sino que también favorece su implicación activa, ya que puede identificar su progreso, autorregularse y asumir un papel protagonista en su propio aprendizaje, desarrollando mayor responsabilidad y autonomía.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777194335913-ocoxp422n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una enseñanza bien organizada, basada en la planificación clara de tareas y actividades vinculadas a criterios de evaluación, resulta fundamental para dar coherencia y sentido al proceso educativo. Cuando cada actividad está diseñada como evidenciable y alineada con lo que se pretende evaluar, el alumnado comprende mejor los objetivos de aprendizaje y lo que se espera de él. Esto no solo aporta transparencia, sino que también favorece su implicación activa, ya que puede identificar su progreso, autorregularse y asumir un papel protagonista en su propio aprendizaje, desarrollando mayor responsabilidad y autonomía.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjay-p0e6tfoc1</odePageId>
+  <odeParentPageId>page-mofixjay-sfql0u4ik</odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjay-p0e6tfoc1</odePageId>
+      <odeBlockId>block-1776972030360-8rgj0q0wi</odeBlockId>
+      <blockName>Criterios de evaluación y actividades evaluables</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjay-p0e6tfoc1</odePageId>
+          <odeBlockId>block-1776972030360-8rgj0q0wi</odeBlockId>
+          <odeIdeviceId>idevice-1776972030358-rm3fczkqv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los criterios de evaluación nos marcan los desempeños a desarrollar por parte del alumnado para alcanzar esas competencias específicas del área correspondiente. Todo ello, se asocia a su vez a la adquisición de las competencias clave del currículo de Educación Primaria en Andalucía. Para esta Situación de Aprendizaje, estos criterios de evaluación del área de Educación Física, se asocian con diferentes actividades evaluables (juegos, retos cooperativos, etc.) y a través de instrumentos de evaluación para que, de esta manera, conseguir una evaluación lo más objetiva posible y que el alumnado sea partícipe de su propio aprendizaje.</p>
+<p><a href="https://docs.google.com/document/d/1Ijw364ctB6BT4PDcmmr4PcBFaPDVE5XSAZIvcNfNoEA/edit?usp=sharing">https://docs.google.com/document/d/1Ijw364ctB6BT4PDcmmr4PcBFaPDVE5XSAZIvcNfNoEA/edit?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776972030358-rm3fczkqv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los criterios de evaluación nos marcan los desempeños a desarrollar por parte del alumnado para alcanzar esas competencias específicas del área correspondiente. Todo ello, se asocia a su vez a la adquisición de las competencias clave del currículo de Educación Primaria en Andalucía. Para esta Situación de Aprendizaje, estos criterios de evaluación del área de Educación Física, se asocian con diferentes actividades evaluables (juegos, retos cooperativos, etc.) y a través de instrumentos de evaluación para que, de esta manera, conseguir una evaluación lo más objetiva posible y que el alumnado sea partícipe de su propio aprendizaje.</p>\n<p><a href=\"https://docs.google.com/document/d/1Ijw364ctB6BT4PDcmmr4PcBFaPDVE5XSAZIvcNfNoEA/edit?usp=sharing\">https://docs.google.com/document/d/1Ijw364ctB6BT4PDcmmr4PcBFaPDVE5XSAZIvcNfNoEA/edit?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjay-ujmdxrri4</odePageId>
+  <odeParentPageId>page-mofixjay-sfql0u4ik</odeParentPageId>
+  <pageName>Instrumentos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjay-ujmdxrri4</odePageId>
+      <odeBlockId>block-1776972269969-urnkrqva6</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjay-ujmdxrri4</odePageId>
+          <odeBlockId>block-1776972269969-urnkrqva6</odeBlockId>
+          <odeIdeviceId>idevice-1776972269968-fo5nb46mk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los instrumentos de evaluación deben ser variados y eficaces en cuanto a la relación que se establece entre la tarea y los criterios de evaluación asociados. En este sentido, utilizar los instrumentos de evaluación adecuados no sólo conseguirá una evaluación lo más objetiva posible, sino que, también permitirá una evaluación formativa y motivadora, ya que, se convierte en un recurso atractivo que permite al alumnado ser partícipe de su propio aprendizaje.</p>
+<p><a href="https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&amp;ouid=118288241115523418302&amp;rtpof=true&amp;sd=true">https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&amp;ouid=118288241115523418302&amp;rtpof=true&amp;sd=true</a></p>
+<p><img src="{{context_path}}/content/resources/Lista de control SDA Brawl Stars.jpg" width="1414" height="2000" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776972269968-fo5nb46mk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los instrumentos de evaluación deben ser variados y eficaces en cuanto a la relación que se establece entre la tarea y los criterios de evaluación asociados. En este sentido, utilizar los instrumentos de evaluación adecuados no sólo conseguirá una evaluación lo más objetiva posible, sino que, también permitirá una evaluación formativa y motivadora, ya que, se convierte en un recurso atractivo que permite al alumnado ser partícipe de su propio aprendizaje.</p>\n<p><a href=\"https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&amp;ouid=118288241115523418302&amp;rtpof=true&amp;sd=true\">https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&amp;ouid=118288241115523418302&amp;rtpof=true&amp;sd=true</a></p>\n<p><img src=\"{{context_path}}/content/resources/Lista de control SDA Brawl Stars.jpg\" width=\"1414\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mofixjaz-lkg8ullki</odePageId>
+  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mofixjaz-lkg8ullki</odePageId>
+      <odeBlockId>block-1776972614821-qwiqe6zm0</odeBlockId>
+      <blockName>Recurso Educativo en Abierto de elaboración propia</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mofixjaz-lkg8ullki</odePageId>
+          <odeBlockId>block-1776972614821-qwiqe6zm0</odeBlockId>
+          <odeIdeviceId>idevice-1776972614819-o8c6sq89f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se hace constar que el recurso educativo en abierto desarrollado en torno a la situación de aprendizaje basada en Brawl Stars para el alumnado de 4º de Educación Primaria, desde el área de Educación Física, ha sido elaborado íntegramente de forma personal. Este material responde a un proceso propio de diseño, planificación y adaptación didáctica, teniendo en cuenta las características del grupo clase y los saberes básicos que se pretenden trabajar.</p>
+<p>Asimismo, el recurso ha sido creado utilizando la herramienta eXeLearning, respetando en todo momento las condiciones de uso y las posibilidades que ofrece en relación con la creación de contenidos educativos digitales. En este sentido, se han aplicado correctamente las licencias proporcionadas por Creative Commons, garantizando el uso legal de los materiales incluidos (imágenes, textos u otros recursos), así como su carácter abierto y reutilizable.</p>
+<p>Por tanto, se certifica la autoría propia del recurso y su adecuación a los principios de legalidad, accesibilidad y difusión del conocimiento, en consonancia con los criterios establecidos para la elaboración de recursos educativos en abierto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776972614819-o8c6sq89f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se hace constar que el recurso educativo en abierto desarrollado en torno a la situación de aprendizaje basada en Brawl Stars para el alumnado de 4º de Educación Primaria, desde el área de Educación Física, ha sido elaborado íntegramente de forma personal. Este material responde a un proceso propio de diseño, planificación y adaptación didáctica, teniendo en cuenta las características del grupo clase y los saberes básicos que se pretenden trabajar.</p>\n<p>Asimismo, el recurso ha sido creado utilizando la herramienta eXeLearning, respetando en todo momento las condiciones de uso y las posibilidades que ofrece en relación con la creación de contenidos educativos digitales. En este sentido, se han aplicado correctamente las licencias proporcionadas por Creative Commons, garantizando el uso legal de los materiales incluidos (imágenes, textos u otros recursos), así como su carácter abierto y reutilizable.</p>\n<p>Por tanto, se certifica la autoría propia del recurso y su adecuación a los principios de legalidad, accesibilidad y difusión del conocimiento, en consonancia con los criterios establecidos para la elaboración de recursos educativos en abierto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
