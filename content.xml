@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>2026042611230728Y5K6</value>
+    <value>2026042818083352YBLZ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260426112307OXKVWS</value>
+    <value>202604281808334B56R9</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1777193934026</value>
+    <value>1777392445521</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mofixjau-tjbxt7mhj</odePageId>
+  <odePageId>page-moitkk61-in3u8y3vf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>INICIO</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -131,8 +131,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjau-i9pro68am</odePageId>
-  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <odePageId>page-moitkk62-ltephkmxg</odePageId>
+  <odeParentPageId>page-moitkk61-in3u8y3vf</odeParentPageId>
   <pageName>Presentación de la SdA</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -167,7 +167,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjau-i9pro68am</odePageId>
+      <odePageId>page-moitkk62-ltephkmxg</odePageId>
       <odeBlockId>block-1776968193481-101p3tx7f</odeBlockId>
       <blockName>&quot;Brawl Stars&quot;</blockName>
       <iconName>play</iconName>
@@ -196,7 +196,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjau-i9pro68am</odePageId>
+          <odePageId>page-moitkk62-ltephkmxg</odePageId>
           <odeBlockId>block-1776968193481-101p3tx7f</odeBlockId>
           <odeIdeviceId>idevice-1776968193479-f51j5q1oq</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -225,8 +225,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjaw-63br3p3ns</odePageId>
-  <odeParentPageId>page-mofixjau-i9pro68am</odeParentPageId>
+  <odePageId>page-moitkk64-e50e59tzs</odePageId>
+  <odeParentPageId>page-moitkk62-ltephkmxg</odeParentPageId>
   <pageName>Descripción</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -261,7 +261,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjaw-63br3p3ns</odePageId>
+      <odePageId>page-moitkk64-e50e59tzs</odePageId>
       <odeBlockId>block-1776968522005-fody9kttt</odeBlockId>
       <blockName>Descripción</blockName>
       <iconName>activity</iconName>
@@ -290,7 +290,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjaw-63br3p3ns</odePageId>
+          <odePageId>page-moitkk64-e50e59tzs</odePageId>
           <odeBlockId>block-1776968522005-fody9kttt</odeBlockId>
           <odeIdeviceId>idevice-1776968522003-5priqejzz</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -320,8 +320,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjaw-4ldathmw9</odePageId>
-  <odeParentPageId>page-mofixjau-i9pro68am</odeParentPageId>
+  <odePageId>page-moitkk65-b7yvl4oah</odePageId>
+  <odeParentPageId>page-moitkk62-ltephkmxg</odeParentPageId>
   <pageName>Justificación</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -356,7 +356,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjaw-4ldathmw9</odePageId>
+      <odePageId>page-moitkk65-b7yvl4oah</odePageId>
       <odeBlockId>block-1776968612205-q6fyl29by</odeBlockId>
       <blockName>Justificación</blockName>
       <iconName>activity</iconName>
@@ -385,7 +385,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjaw-4ldathmw9</odePageId>
+          <odePageId>page-moitkk65-b7yvl4oah</odePageId>
           <odeBlockId>block-1776968612205-q6fyl29by</odeBlockId>
           <odeIdeviceId>idevice-1776968612204-hc81bm51y</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -416,8 +416,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjax-nq8lxe4i6</odePageId>
-  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <odePageId>page-moitkk65-mnzcvksnm</odePageId>
+  <odeParentPageId>page-moitkk61-in3u8y3vf</odeParentPageId>
   <pageName>Producto final SdA</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -452,7 +452,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjax-nq8lxe4i6</odePageId>
+      <odePageId>page-moitkk65-mnzcvksnm</odePageId>
       <odeBlockId>block-1776968730271-pu03k48ha</odeBlockId>
       <blockName>Descripción del producto final: creación, difusión y puesta en práctica de juegos inspirados en Brawl Stars.</blockName>
       <iconName>piece</iconName>
@@ -481,7 +481,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjax-nq8lxe4i6</odePageId>
+          <odePageId>page-moitkk65-mnzcvksnm</odePageId>
           <odeBlockId>block-1776968730271-pu03k48ha</odeBlockId>
           <odeIdeviceId>idevice-1776968730269-1buxiidps</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -516,8 +516,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjax-ihj6kkgfp</odePageId>
-  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <odePageId>page-moitkk65-uhtxgomri</odePageId>
+  <odeParentPageId>page-moitkk61-in3u8y3vf</odeParentPageId>
   <pageName>Protección de datos y derechos digitales</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -552,7 +552,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjax-ihj6kkgfp</odePageId>
+      <odePageId>page-moitkk65-uhtxgomri</odePageId>
       <odeBlockId>block-1776969412433-hwye2fqqa</odeBlockId>
       <blockName>¿Qué debemos saber?</blockName>
       <iconName>objectives</iconName>
@@ -581,7 +581,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjax-ihj6kkgfp</odePageId>
+          <odePageId>page-moitkk65-uhtxgomri</odePageId>
           <odeBlockId>block-1776969412433-hwye2fqqa</odeBlockId>
           <odeIdeviceId>idevice-1776969412431-hbluhm7wc</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -616,8 +616,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjax-mmf1hzpp3</odePageId>
-  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <odePageId>page-moitkk66-vndv12d8g</odePageId>
+  <odeParentPageId>page-moitkk61-in3u8y3vf</odeParentPageId>
   <pageName>Línea temporal para la organización</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -660,7 +660,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjax-mmf1hzpp3</odePageId>
+      <odePageId>page-moitkk66-vndv12d8g</odePageId>
       <odeBlockId>block-1776971662833-pst9ezf12</odeBlockId>
       <blockName>Línea temporal</blockName>
       <iconName>roadmap</iconName>
@@ -689,7 +689,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjax-mmf1hzpp3</odePageId>
+          <odePageId>page-moitkk66-vndv12d8g</odePageId>
           <odeBlockId>block-1776971662833-pst9ezf12</odeBlockId>
           <odeIdeviceId>idevice-1776971662831-05b6rfwfe</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -723,8 +723,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjay-z3xopiy3e</odePageId>
-  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <odePageId>page-moitkk66-hsuyi8hpy</odePageId>
+  <odeParentPageId>page-moitkk61-in3u8y3vf</odeParentPageId>
   <pageName>Curación de contenido</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -759,7 +759,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjay-z3xopiy3e</odePageId>
+      <odePageId>page-moitkk66-hsuyi8hpy</odePageId>
       <odeBlockId>block-1777194235955-0rtc296nz</odeBlockId>
       <blockName>Importancia de la curación de contenidos en Educación</blockName>
       <iconName>agreement</iconName>
@@ -788,7 +788,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjay-z3xopiy3e</odePageId>
+          <odePageId>page-moitkk66-hsuyi8hpy</odePageId>
           <odeBlockId>block-1777194235955-0rtc296nz</odeBlockId>
           <odeIdeviceId>idevice-1777194235953-l0sseqdrl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -798,6 +798,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777194235953-l0sseqdrl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La curación de contenidos en educación es clave tanto para alumnos como para docentes, ya que permite filtrar, seleccionar y organizar información relevante en un entorno digital saturado. Para los estudiantes, facilita el acceso a fuentes fiables y comprensibles, mejorando su aprendizaje autónomo y pensamiento crítico. Para los docentes, optimiza el tiempo y enriquece la enseñanza al integrar materiales de calidad, actualizados y adaptados a las necesidades del aula, favoreciendo así una experiencia educativa más efectiva y significativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -805,8 +817,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjay-qnotbs5ny</odePageId>
-  <odeParentPageId>page-mofixjay-z3xopiy3e</odeParentPageId>
+  <odePageId>page-moitkk66-1s4cu7t99</odePageId>
+  <odeParentPageId>page-moitkk66-hsuyi8hpy</odeParentPageId>
   <pageName>Docente</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -841,7 +853,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjay-qnotbs5ny</odePageId>
+      <odePageId>page-moitkk66-1s4cu7t99</odePageId>
       <odeBlockId>block-1776971364026-a7m2jc04t</odeBlockId>
       <blockName>Recursos digitales para la gestión del aula</blockName>
       <iconName>present</iconName>
@@ -870,7 +882,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjay-qnotbs5ny</odePageId>
+          <odePageId>page-moitkk66-1s4cu7t99</odePageId>
           <odeBlockId>block-1776971364026-a7m2jc04t</odeBlockId>
           <odeIdeviceId>idevice-1776971364024-b7vt3qgmy</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -904,8 +916,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjay-k0a8zrczu</odePageId>
-  <odeParentPageId>page-mofixjay-z3xopiy3e</odeParentPageId>
+  <odePageId>page-moitkk67-jk039akmk</odePageId>
+  <odeParentPageId>page-moitkk66-hsuyi8hpy</odeParentPageId>
   <pageName>Alumnado</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -940,7 +952,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjay-k0a8zrczu</odePageId>
+      <odePageId>page-moitkk67-jk039akmk</odePageId>
       <odeBlockId>block-1776970296433-g5mo0sut7</odeBlockId>
       <blockName>¿Dónde está todo lo que necesito?</blockName>
       <iconName>passport</iconName>
@@ -969,7 +981,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjay-k0a8zrczu</odePageId>
+          <odePageId>page-moitkk67-jk039akmk</odePageId>
           <odeBlockId>block-1776970296433-g5mo0sut7</odeBlockId>
           <odeIdeviceId>idevice-1776970296431-o3yluvwx0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1003,8 +1015,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjay-sfql0u4ik</odePageId>
-  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <odePageId>page-moitkk67-lh1hkmdd8</odePageId>
+  <odeParentPageId>page-moitkk61-in3u8y3vf</odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1039,7 +1051,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjay-sfql0u4ik</odePageId>
+      <odePageId>page-moitkk67-lh1hkmdd8</odePageId>
       <odeBlockId>block-1777194335915-grslfjjso</odeBlockId>
       <blockName>Guía didáctica en el proceso de enseñanza-aprendizaje</blockName>
       <iconName>book</iconName>
@@ -1068,7 +1080,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjay-sfql0u4ik</odePageId>
+          <odePageId>page-moitkk67-lh1hkmdd8</odePageId>
           <odeBlockId>block-1777194335915-grslfjjso</odeBlockId>
           <odeIdeviceId>idevice-1777194335913-ocoxp422n</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1078,6 +1090,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777194335913-ocoxp422n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una enseñanza bien organizada, basada en la planificación clara de tareas y actividades vinculadas a criterios de evaluación, resulta fundamental para dar coherencia y sentido al proceso educativo. Cuando cada actividad está diseñada como evidenciable y alineada con lo que se pretende evaluar, el alumnado comprende mejor los objetivos de aprendizaje y lo que se espera de él. Esto no solo aporta transparencia, sino que también favorece su implicación activa, ya que puede identificar su progreso, autorregularse y asumir un papel protagonista en su propio aprendizaje, desarrollando mayor responsabilidad y autonomía.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1085,8 +1109,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjay-p0e6tfoc1</odePageId>
-  <odeParentPageId>page-mofixjay-sfql0u4ik</odeParentPageId>
+  <odePageId>page-moitkk68-8fc2kvmm2</odePageId>
+  <odeParentPageId>page-moitkk67-lh1hkmdd8</odeParentPageId>
   <pageName>Criterios de evaluación</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1121,7 +1145,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjay-p0e6tfoc1</odePageId>
+      <odePageId>page-moitkk68-8fc2kvmm2</odePageId>
       <odeBlockId>block-1776972030360-8rgj0q0wi</odeBlockId>
       <blockName>Criterios de evaluación y actividades evaluables</blockName>
       <iconName>diary</iconName>
@@ -1150,7 +1174,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjay-p0e6tfoc1</odePageId>
+          <odePageId>page-moitkk68-8fc2kvmm2</odePageId>
           <odeBlockId>block-1776972030360-8rgj0q0wi</odeBlockId>
           <odeIdeviceId>idevice-1776972030358-rm3fczkqv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1181,8 +1205,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjay-ujmdxrri4</odePageId>
-  <odeParentPageId>page-mofixjay-sfql0u4ik</odeParentPageId>
+  <odePageId>page-moitkk68-6anxfm13d</odePageId>
+  <odeParentPageId>page-moitkk67-lh1hkmdd8</odeParentPageId>
   <pageName>Instrumentos</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1217,7 +1241,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjay-ujmdxrri4</odePageId>
+      <odePageId>page-moitkk68-6anxfm13d</odePageId>
       <odeBlockId>block-1776972269969-urnkrqva6</odeBlockId>
       <blockName>Instrumentos de evaluación</blockName>
       <iconName>draw</iconName>
@@ -1246,16 +1270,16 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjay-ujmdxrri4</odePageId>
+          <odePageId>page-moitkk68-6anxfm13d</odePageId>
           <odeBlockId>block-1776972269969-urnkrqva6</odeBlockId>
           <odeIdeviceId>idevice-1776972269968-fo5nb46mk</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Los instrumentos de evaluación deben ser variados y eficaces en cuanto a la relación que se establece entre la tarea y los criterios de evaluación asociados. En este sentido, utilizar los instrumentos de evaluación adecuados no sólo conseguirá una evaluación lo más objetiva posible, sino que, también permitirá una evaluación formativa y motivadora, ya que, se convierte en un recurso atractivo que permite al alumnado ser partícipe de su propio aprendizaje.</p>
-<p><a href="https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&amp;ouid=118288241115523418302&amp;rtpof=true&amp;sd=true">https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&amp;ouid=118288241115523418302&amp;rtpof=true&amp;sd=true</a></p>
+<p><a href="https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&ouid=118288241115523418302&rtpof=true&sd=true">https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&ouid=118288241115523418302&rtpof=true&sd=true</a></p>
 <p><img src="{{context_path}}/content/resources/Lista de control SDA Brawl Stars.jpg" width="1414" height="2000" alt="" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776972269968-fo5nb46mk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los instrumentos de evaluación deben ser variados y eficaces en cuanto a la relación que se establece entre la tarea y los criterios de evaluación asociados. En este sentido, utilizar los instrumentos de evaluación adecuados no sólo conseguirá una evaluación lo más objetiva posible, sino que, también permitirá una evaluación formativa y motivadora, ya que, se convierte en un recurso atractivo que permite al alumnado ser partícipe de su propio aprendizaje.</p>\n<p><a href=\"https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&amp;ouid=118288241115523418302&amp;rtpof=true&amp;sd=true\">https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&amp;ouid=118288241115523418302&amp;rtpof=true&amp;sd=true</a></p>\n<p><img src=\"{{context_path}}/content/resources/Lista de control SDA Brawl Stars.jpg\" width=\"1414\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776972269968-fo5nb46mk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los instrumentos de evaluación deben ser variados y eficaces en cuanto a la relación que se establece entre la tarea y los criterios de evaluación asociados. En este sentido, utilizar los instrumentos de evaluación adecuados no sólo conseguirá una evaluación lo más objetiva posible, sino que, también permitirá una evaluación formativa y motivadora, ya que, se convierte en un recurso atractivo que permite al alumnado ser partícipe de su propio aprendizaje.</p>\n<p><a href=\"https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&ouid=118288241115523418302&rtpof=true&sd=true\">https://docs.google.com/document/d/1pRduhblOSwMgss4_LEt4DSxATjXt2SxF/edit?usp=sharing&ouid=118288241115523418302&rtpof=true&sd=true</a></p>\n<p><img src=\"{{context_path}}/content/resources/Lista de control SDA Brawl Stars.jpg\" width=\"1414\" height=\"2000\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1277,8 +1301,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mofixjaz-lkg8ullki</odePageId>
-  <odeParentPageId>page-mofixjau-tjbxt7mhj</odeParentPageId>
+  <odePageId>page-moitkk68-nctrs3grw</odePageId>
+  <odeParentPageId>page-moitkk61-in3u8y3vf</odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1313,7 +1337,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mofixjaz-lkg8ullki</odePageId>
+      <odePageId>page-moitkk68-nctrs3grw</odePageId>
       <odeBlockId>block-1776972614821-qwiqe6zm0</odeBlockId>
       <blockName>Recurso Educativo en Abierto de elaboración propia</blockName>
       <iconName>explore</iconName>
@@ -1342,7 +1366,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mofixjaz-lkg8ullki</odePageId>
+          <odePageId>page-moitkk68-nctrs3grw</odePageId>
           <odeBlockId>block-1776972614821-qwiqe6zm0</odeBlockId>
           <odeIdeviceId>idevice-1776972614819-o8c6sq89f</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1368,6 +1392,68 @@
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moitkk68-nctrs3grw</odePageId>
+      <odeBlockId>block-1777392455940-7skd39muv</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moitkk68-nctrs3grw</odePageId>
+          <odeBlockId>block-1777392455940-7skd39muv</odeBlockId>
+          <odeIdeviceId>idevice-1777392455939-bwux3kgpg</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">"Brawl Stars"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Esta Situación de Aprendizaje permitirá motivar al alumnado a superar retos y juegos cooperativos a través de las habilidades y capacidades típicas de los Brawlers favoritos del propio videojuego. Deberán superar dichas pruebas, de manera cooperativa, para poder desbloquear cada uno de los Brawlers propuestos. Todo ello para superar el producto final, donde deberán crear sus propios juegos asociados a las habilidades de dichos Brawlers para que los disfruten el resto de compañeros/as.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">José Germán Pila Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
